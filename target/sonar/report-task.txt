@@ -1,0 +1,5 @@
+projectKey=com.cg.jenkins:JenkinsMavenTest
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.cg.jenkins:JenkinsMavenTest
+ceTaskId=AWUyI_KooT4m_a6ie_0s
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWUyI_KooT4m_a6ie_0s
